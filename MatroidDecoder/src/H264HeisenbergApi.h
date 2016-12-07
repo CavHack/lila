@@ -8,6 +8,8 @@
         3.2. Structures for information interchange with
              DEC API and user application.
     4. Prototypes of Decoder API functions
+    
+    see: https://en.wikipedia.org/wiki/Wavelet_packet_decomposition
 ------------------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------------------
