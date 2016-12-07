@@ -10,6 +10,9 @@
     4. Prototypes of Decoder API functions
     
     see: https://en.wikipedia.org/wiki/Wavelet_packet_decomposition
+    	 https://en.wikipedia.org/wiki/Density_on_a_manifold
+	 
+	 
 ------------------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------------------
