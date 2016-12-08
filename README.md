@@ -1,2 +1,2 @@
 # lila
-Stochastic Context-Hybrid NLP  for Video Compression using h264 codec standards. Work inspired by David Mumford's 'Image Grammar'
+Stochastic Context-Hybrid NLP  for Video Compression using h264 codec standards. Work inspired by David Mumford's 'Image Grammar'. In addition, we will explore post-quantum cryptographic primitives based on the word conjugacy problem of artin braid groups in a lattice. Ideally, we want to survey concatenated and swarm parallel computational optimization in distributed error-correcting topological automata. We are interested in OKA and Stein Manifolds.
