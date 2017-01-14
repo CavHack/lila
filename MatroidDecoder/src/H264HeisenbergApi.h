@@ -1,31 +1,4 @@
-/*------------------------------------------------------------------------------
-    Table of contents
-    1. Include Headers
-    2. Enumerations used as a return value or a parameter.
-        2.1. API's return value enumerations.
-    3. User Structures
-        3.1. Structures for H264SwDecDecode() parameters.
-        3.2. Structures for information interchange with
-             DEC API and user application.
-    4. Prototypes of Decoder API functions
-    
-    see: https://en.wikipedia.org/wiki/Wavelet_packet_decomposition
-    	 https://en.wikipedia.org/wiki/Density_on_a_manifold
-	 
-	 
-------------------------------------------------------------------------------*/
 
-/*------------------------------------------------------------------------------
-    Table of contents
-    1. Include Headers
-    2. Enumerations used as a return value or a parameter.
-        2.1. API's return value enumerations.
-    3. User Structures
-        3.1. Structures for H264SwDecDecode() parameters.
-        3.2. Structures for information interchange with
-             DEC API and user application.
-    4. Prototypes of Decoder API functions
-------------------------------------------------------------------------------*/
 
 #ifndef H264HEISENBERGAPI_H
 #define H264HEISENBERGAPI_H
