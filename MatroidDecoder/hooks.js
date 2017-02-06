@@ -29,14 +29,14 @@ Module['stop'] = function() {
 
 Module['onFrameDecoded'] = function () { }
 
-_broadwayOnFrameDecoded = function() {
+_heisenbergOnFrameDecoded = function() {
   Module['onFrameDecoded']();
 }
 
-// Module['setPosition'] = _broadwaySetPosition; 
-// Module['getPosition'] = _broadwayGetPosition;
+// Module['setPosition'] = _heisenbergSetPosition; 
+// Module['getPosition'] = _heisenberGetPosition;
 
-Module['createStreamBuffer'] = _broadwayCreateStreamBuffer;
+Module['createStreamBuffer'] = _heisenbergCreateStreamBuffer;
 
 var patches = Module['patches'] = {};
 
