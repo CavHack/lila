@@ -36,7 +36,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include "basetype.h"
-#include "h264BSDContainer"
+#include "h264BSDContainer.h"
 #include "H264HeisenbergApi.h"
 #include "H264BSDDecoder.h"
 #include "h264BSDUTIL.h"
